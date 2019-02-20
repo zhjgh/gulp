@@ -1,0 +1,11 @@
+body{
+  background: green;
+}
+h1{
+  font-size: 60px;
+  color: red;
+  border: 1px #000 solid;
+}
+img{
+  width: 100px;
+}
